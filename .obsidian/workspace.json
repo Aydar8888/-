@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "4587162e77f96ac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "982ff9a9864e717f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea2096f97e395f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Распределение памяти/4.2 Ссылочный тип/4.2 Ссылочный тип.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2 Ссылочный тип"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b70412dabfdd8151",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f840829fae2c663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6ae73800867181e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "636e1845d1d74291",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "cd83253373f8f3b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "707f2fa4f7a0b8ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "7239b4d2d652c8cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e075a9f6a63ccfd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "6a5740fb4671df44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "31b5b140f23bc103",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e203abf9a4bfe174",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ea2096f97e395f75",
+  "lastOpenFiles": [
+    "4. Распределение памяти/4.1 Статические и динамические объекты программ.md",
+    "4. Распределение памяти/4.2 Ссылочный тип/4.2 Ссылочный тип.md",
+    "4. Распределение памяти/4.2 Ссылочный тип",
+    "4. Распределение памяти/4.2 Ссылочный тип.md",
+    "4.2 Ссылочный тип.md",
+    "4. Распределение памяти/4.1 Статистические и динамические объекты программ/Без названия.md",
+    "4. Распределение памяти/4.1 Статистические и динамические объекты программ",
+    "Без названия",
+    "4. Распределение памяти"
+  ]
+}
